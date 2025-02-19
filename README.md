@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/rafapythonista/rafapythonista/master/name.svg" alt="Rafael Miranda" />
+  <img src="https://raw.githubusercontent.com/rafapythonista/rafapythonista/name.svg" alt="Rafael Miranda" />
 </h1>
 
 ## Hey! 👋
