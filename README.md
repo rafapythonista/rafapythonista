@@ -1,8 +1,5 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/rafapythonista/rafapythonista/name.svg" alt="Rafael Miranda" />
-</h1>
 
-## Hey! 👋
+## Hi 👋, wellcome to my profile
 
 👨‍💻 Working as a freelancer and making projects in Django
 🧭 Creating automations and AI tools
