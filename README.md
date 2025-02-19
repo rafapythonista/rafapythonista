@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/rafapythonista/RafaelMiranda/master/name.svg" alt="Rafael Miranda" />
+</h1>
 
-<!--
-**rafapythonista/rafapythonista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
 
-Here are some ideas to get you started:
+👨‍💻 Working as a freelancer and making projects in Django
+🧭 Creating automations and AI tools
+👥 Providing solutions for businesses
+a lot more ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+👨‍💻 Python, HTML, Django, C#, etc.
+💽 MySQL, SQL
+a lot more :D
