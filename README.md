@@ -1,13 +1,13 @@
 
 ## Hi 👋, wellcome to my profile
 
-👨‍💻 Working as a freelancer and making projects in Django
-🧭 Creating automations and AI tools
-👥 Providing solutions for businesses
-a lot more ;)
+- 👨‍💻 Working as a freelancer and making projects in Django
+- 🧭 Creating automations and AI tools
+- 👥 Providing solutions for businesses
+- a lot more ;)
 
-Skills
+Skills:
 
-👨‍💻 Python, HTML, Django, C#, etc.
-💽 MySQL, SQL
-a lot more :D
+- 👨‍💻 Python, HTML, Django, C#, etc.
+- 💽 MySQL, SQL
+- a lot more :D
